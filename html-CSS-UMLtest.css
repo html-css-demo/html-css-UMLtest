@@ -1,0 +1,57 @@
+#UML-paper {
+    padding: 20px;
+
+}
+
+#title {
+    text-align: center;
+}
+
+.header {
+    border: 2px solid rgba(169, 169, 167, 0.25);
+    padding: 0 15px;
+    border-radius: 5px;
+    height: 45px;
+    line-height: 45px;
+}
+
+.header-info {
+    margin-right: 20%;
+}
+
+.header-item {
+    margin-right: 10%;
+}
+
+.homeWorks {
+    border: 1px solid rgba(169, 169, 167, 0.25);
+    margin: 15px 0;
+}
+
+.homeWork-title {
+    background-color: rgba(169, 169, 167, 0.25);
+    height: 50px;
+    line-height: 50px;
+}
+
+h3 {
+    margin: 0 25px;
+}
+
+.fa-check {
+    color: green;
+}
+
+.fa-close {
+    color: #FF5D4D;
+}
+
+footer {
+    text-align: center;
+}
+
+#button-grade {
+    background-color: #337ab7;
+    border-color: #337ab7;
+    border-radius: 3px;
+}
